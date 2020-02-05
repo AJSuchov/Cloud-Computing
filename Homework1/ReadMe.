@@ -5,3 +5,5 @@ The link to the server is: http://ec2-18-191-241-66.us-east-2.compute.amazonaws.
 The main backbone files are the flaskapp.py, dbconnect.py, and flaskapp.wsgi.
 
 For templates and html, the main ones are theindex.html, userInfo.html, Login.html, and signup.html 
+
+Influence from Youtuber Sentdex was used when developing the flask app.
