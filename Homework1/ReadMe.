@@ -1,0 +1,7 @@
+This is the directory for all the code that was made onto my web server. 
+
+The link to the server is: http://ec2-18-191-241-66.us-east-2.compute.amazonaws.com/ 
+
+The main backbone files are the flaskapp.py, dbconnect.py, and flaskapp.wsgi.
+
+For templates and html, the main ones are theindex.html, userInfo.html, Login.html, and signup.html 
